@@ -3,6 +3,7 @@ Simulador de escalonamento Round Robin com 2 núcleos, suporte a processos bloqu
 
 ## Como compilar e executar
 g++ -Wall -Wextra -g3 main.cpp -o simulador -pthread
+
 ./simulador
 
 ## Descrição
